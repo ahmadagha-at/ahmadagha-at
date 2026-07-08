@@ -1,4 +1,4 @@
-About Me:
+# About Me:
 Computer Science student at Johannes Kepler University Linz (JKU) with a strong passion for backend development and software engineering.
 
 I enjoy designing scalable applications, learning modern backend technologies, and exploring cybersecurity. I'm particularly interested in clean architecture, distributed systems, cloud computing, and writing reliable, maintainable code.
