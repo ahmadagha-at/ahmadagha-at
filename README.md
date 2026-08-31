@@ -1,8 +1,11 @@
-# About Me:
-Computer Science student at Johannes Kepler University Linz (JKU) with a strong passion for backend development and software engineering.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=3fb950&center=true&vCenter=true&width=400&height=44&lines=Welcome+to+my+profile!" alt="Typing headlines" />
+</p>
 
-I enjoy designing scalable applications, learning modern backend technologies, and exploring cybersecurity. I'm particularly interested in clean architecture, distributed systems, cloud computing, and writing reliable, maintainable code.
+### 🚀 About Me
 
+Computer Science student at Johannes Kepler University Linz (JKU) with a strong passion for backend development and software engineering.  
+I enjoy designing scalable applications, learning modern backend technologies, and exploring cybersecurity. I'm particularly interested in clean architecture, distributed systems, cloud computing, and writing reliable, maintainable code.  
 Currently expanding my knowledge in Java, Spring Boot, PostgreSQL, Docker, REST APIs, WebSockets, GraphQL, gRPC, Microservices, relational databases (RDBMS), NoSQL databases, and secure software development through continuous learning and hands-on projects.
 <!--
 # 💻 Tech Stack
